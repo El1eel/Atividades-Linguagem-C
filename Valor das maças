@@ -7,7 +7,7 @@ int main() {
 	
 	float valorMaca, quantidadeMaca, valorPagar;
 	
-	printf("Quantidade de Maças desejadas: ");
+	printf("Quantidade de MaÃ§as desejadas: ");
 	scanf("%f",&quantidadeMaca);
 	
 	
